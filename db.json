@@ -2,7 +2,7 @@
   "todos": [
     {
       "todoText": "teach kigs",
-      "completed": false,
+      "completed": true,
       "important": false,
       "id": 11
     },
